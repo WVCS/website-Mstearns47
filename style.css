@@ -4,7 +4,7 @@ body {
 
 ul {
   list-style-type: none;
-  background-color: beige;
+  background-color: #96897B;
   width: 100%;
   left: 0;
   top: 0;
@@ -36,4 +36,16 @@ h1 {
   text-decoration-line: overline underline;
    text-decoration-color: black;
   font-family: "Lucida Console", "Courier New", monospace;
+}
+
+ 
+img {
+  width: 20%;
+border-radius: 50%;
+  border: 10px solid;
+
+}
+
+img:hover {
+  border-color: white;
 }
